@@ -1,0 +1,13 @@
+Steps for AI/ML model performed below:
+
+1. Defining the problem and gathering data - clearly defying problem which we would like to solve.
+Understanding the domain of problem.
+2. Exploring and cleaning the data - understanding properties and dependencies.
+Performing data cleaning and preprocessing to ensure that the data is properly formatted for next steps, which means to:
+remove unwanted data, missing values, rows, and columns, duplicate values, data type conversion, etc.
+Before checking if dataset requires cleaning and to what degree.
+3. Preparing the data - understanding statistical (classical statistics) relationships between labels.
+At the end splitting data into training and testing set in ratio 8 to 2.
+Scaling or normalizing the data, outliers (mae, mse, r2, ransac, ) etc.
+4. Choosing and training the model - which includes tuning model.
+5. Evaluating the model - model performance.
